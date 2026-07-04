@@ -1,0 +1,54 @@
+{
+  "titulo": "Mi Wishlist de Cumpleaños",
+  "subtitulo": "Para dudas contactar con el grandioso Eric",
+  "moneda": "€",
+  "regalos": [
+    {
+      "nombre": "Figura Amiibo - Nintendo The Legend of Zelda. Tears of the Kingdom: Mineru's Construct",
+      "categoria": "Amiibo",
+      "prioridad": "media",
+      "precio": 29.99,
+      "descripcion": "25.50€ con el descuento del 15% en El Corte Inglés",
+      "foto": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_176079026?x=1800&y=1800&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=1800&ey=1800&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=1800&cdy=1800",
+      "links": [
+        { "tienda": "Mediamarkt", "url": "https://www.mediamarkt.es/es/product/_figura-amiibo-nintendo-the-legend-of-zelda-tears-of-the-kingdom-minerus-construct-1666648.html?utm_source=google&utm_medium=v2-sho&utm_campaign=es|mm|rt|v2-sho|pmax|nsp|resto-categorias|na|d2c|aon|OSB0003N04&utm_content=OSB0003N04-TCID19605023726&gclsrc=aw.ds&gad_source=1&gad_campaignid=19605029725&gbraid=0AAAAADL_At-xLrDqoKtzLlMWELH6w7wHZ&gclid=Cj0KCQjwiJvQBhCYARIsAMjts3JqExsWoiMUp7Hs9UJYsCZtmb4gZj6yMQW1lKpxYTzwTpjl8NCZznkaAnU6EALw_wcB" },
+        { "tienda": "El Corte Inglés", "url": "https://www.elcorteingles.es/videojuegos/A200906732-amiibo-mineru-zelda-tears-of-the-kingdom/?aff_id=2118094&utm_source=awin&utm_medium=affiliates&utm_campaign=eci_fv_fv_cm360_affiliate_afiliacion_20190901-20300228_na_purch_af319&utm_content=text&utm_term=afiliacion-generico_1x1_CCD_02-06-2016-css-shoparize&awc=13075_1782896637_356d0714dbbf4ac43d6e231d64a5d478&gad_source=7&dclid=CLf588WPsZUDFbIMBgAdhG8Buw" }
+      ]
+    },
+    {
+      "nombre": "The Adventures of Elliot: The Millennium Tales Nintendo Switch 2",
+      "categoria": "Juego Nintendo Switch 2",
+      "prioridad": "media",
+      "precio": 66.99,
+      "descripcion": "59.50€ con el descuento del 15% en El Corte Inglés",
+      "foto": "https://dam.elcorteingles.es/producto/www-001097563510086-00.jpg?impolicy=frontWebHQ&shape=square",
+      "links": [
+        { "tienda": "Mediamarkt", "url": "https://www.mediamarkt.es/es/product/_nintendo-switch-2-the-adventures-of-elliot-the-millennium-tales-game-key-card-1620443.html?tduid=c7e8e648ddb09b746b910d9a8884132c&utm_source=tradedoubler&utm_medium=v2-aff&utm_campaign=es|mm|rt|v2-aff|pfm|nsp|nacional|na|d2c|Twenga__ES_&utm_term=3144836&utm_content=aon" },
+        { "tienda": "El Corte Inglés", "url": "https://www.elcorteingles.es/videojuegos/A200291732-the-adventures-of-elliot-the-millennium-tales-nintendo-switch-2-gkc/?aff_id=2118094&utm_source=awin&utm_medium=affiliates&utm_campaign=eci_fv_fv_cm360_affiliate_afiliacion_20190901-20300228_na_purch_af319&utm_content=text&utm_term=afiliacion-generico_1x1_CCD_02-06-2016-css-shoparize&awc=13075_1782896924_6a0882571571a872a8c83cec2aea67dd&gad_source=7&dclid=CI20386QsZUDFRssBgAdq0gDlA"}
+      ]
+    },
+    {
+      "nombre": "Perfume TBD",
+      "categoria": "Perfumes",
+      "prioridad": "media",
+      "precio": 0,
+      "descripcion": "TBD",
+      "foto": "https://t3.ftcdn.net/jpg/06/16/17/88/360_F_616178830_rySDz4kA4m5l7tiWta1O0qLAFhFqw2eS.jpg",
+      "links": [
+        { "tienda": "Mediamarkt", "url": "" },
+        { "tienda": "El Corte Inglés", "url": ""}
+      ]
+    },
+    {
+      "nombre": "Guantes Moto TBD",
+      "categoria": "Moto",
+      "prioridad": "media",
+      "precio": 0,
+      "descripcion": "TBD",
+      "foto": "https://t3.ftcdn.net/jpg/06/16/17/88/360_F_616178830_rySDz4kA4m5l7tiWta1O0qLAFhFqw2eS.jpg",
+      "links": [
+        { "tienda": "Motocard", "url": "" }
+      ]
+    }
+  ]
+}
